@@ -1,0 +1,15 @@
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\bin\Debug\net6.0\MyName.Infra.Job.deps.json
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\bin\Debug\net6.0\MyName.Infra.Job.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\bin\Debug\net6.0\MyName.Infra.Job.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\bin\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\bin\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\MyName.Infra.Job.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\MyName.Infra.Job.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\MyName.Infra.Job.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\MyName.Infra.Job.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\MyName.Infra.Job.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\MyName.Infra.Job.csproj.CopyComplete
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\MyName.Infra.Job.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\refint\MyName.Infra.Job.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\MyName.Infra.Job.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Job\obj\Debug\net6.0\ref\MyName.Infra.Job.dll

@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyName.Usr.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:MyName.Usr.WebApi.Controllers.AccountController">
+            <summary>
+            认证服务
+            </summary>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.AccountController.LoginAsync(MyName.Usr.Application.Contracts.Dtos.UserLoginDto)">
+            <summary>
+            登录
+            </summary>
+            <param name="input"><see cref="T:MyName.Usr.Application.Contracts.Dtos.UserLoginDto"/></param>
+            <returns><see cref="T:MyName.Usr.Application.Contracts.Dtos.UserTokenInfoDto"></see>/></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.AccountController.LogoutAsync">
+            <summary>
+            注销
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.AccountController.RefreshAccessTokenAsync(MyName.Usr.Application.Contracts.Dtos.UserRefreshTokenDto)">
+            <summary>
+            刷新Token
+            </summary>
+            <param name="input"><see cref="T:MyName.Usr.Application.Contracts.Dtos.UserRefreshTokenDto"/></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.AccountController.ChangePassword(MyName.Usr.Application.Contracts.Dtos.UserChangePwdDto)">
+            <summary>
+            修改密码
+            </summary>
+            <param name="input"><see cref="T:MyName.Usr.Application.Contracts.Dtos.UserChangePwdDto"/></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.AccountController.GetUserValidatedInfoAsync">
+            <summary>
+             获取认证信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MyName.Usr.WebApi.Controllers.DeptController">
+            <summary>
+            部门
+            </summary>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.DeptController.Delete(System.Int64)">
+            <summary>
+            删除部门
+            </summary>
+            <param name="id">部门ID</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.DeptController.CreateAsync(MyName.Usr.Application.Contracts.Dtos.DeptCreationDto)">
+            <summary>
+            新增部门
+            </summary>
+            <param name="input">部门</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.DeptController.UpdateAsync(System.Int64,MyName.Usr.Application.Contracts.Dtos.DeptUpdationDto)">
+            <summary>
+            修改部门
+            </summary>
+            <param name="id">id</param>
+            <param name="input">部门</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.DeptController.GetListAsync">
+            <summary>
+            获取部门列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MyName.Usr.WebApi.Controllers.MenuController">
+            <summary>
+            菜单管理
+            </summary>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.MenuController.CreateAsync(MyName.Usr.Application.Contracts.Dtos.MenuCreationDto)">
+            <summary>
+            新增菜单
+            </summary>
+            <param name="menuDto">菜单</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.MenuController.UpdateAsync(System.Int64,MyName.Usr.Application.Contracts.Dtos.MenuUpdationDto)">
+            <summary>
+            修改菜单
+            </summary>
+            <param name="id">id</param>
+            <param name="input">菜单</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.MenuController.DeleteAsync(System.Int64)">
+            <summary>
+            删除菜单
+            </summary>
+            <param name="id">菜单ID</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.MenuController.GetlistAsync">
+            <summary>
+            获取菜单树
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.MenuController.GetMenusForRouterAsync">
+            <summary>
+            获取侧边栏路由菜单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.MenuController.GetMenuTreeListByRoleIdAsync(System.Int64)">
+            <summary>
+            根据角色获取菜单树
+            </summary>
+            <param name="roleId">角色ID</param>
+            <returns></returns>
+        </member>
+        <member name="T:MyName.Usr.WebApi.Controllers.RoleController">
+            <summary>
+            角色
+            </summary>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.RoleController.GetPagedAsync(MyName.Usr.Application.Contracts.Dtos.RolePagedSearchDto)">
+            <summary>
+            查询角色
+            </summary>
+            <param name="input">角色查询条件</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.RoleController.GetRoleTreeListByUserIdAsync(System.Int64)">
+            <summary>
+            根据用户ID获取角色树
+            </summary>
+            <param name="userId">用户ID</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.RoleController.DeleteAsync(System.Int64)">
+            <summary>
+            删除角色
+            </summary>
+            <param name="id">角色ID</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.RoleController.SetPermissonsAsync(System.Int64,System.Int64[])">
+            <summary>
+            保存角色权限
+            </summary>
+            <param name="id">角色Id</param>
+            <param name="permissions">用户权限Ids</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.RoleController.CreateAsync(MyName.Usr.Application.Contracts.Dtos.RoleCreationDto)">
+            <summary>
+            新增角色
+            </summary>
+            <param name="input">角色</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.RoleController.UpdateAsync(System.Int64,MyName.Usr.Application.Contracts.Dtos.RoleUpdationDto)">
+            <summary>
+            修改角色
+            </summary>
+            <param name="id">id</param>
+            <param name="input">角色</param>
+            <returns></returns>
+        </member>
+        <member name="T:MyName.Usr.WebApi.Controllers.UserController">
+            <summary>
+            用户管理
+            </summary>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.CreateAsync(MyName.Usr.Application.Contracts.Dtos.UserCreationDto)">
+            <summary>
+            新增用户
+            </summary>
+            <param name="input">用户信息</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.UpdateAsync(System.Int64,MyName.Usr.Application.Contracts.Dtos.UserUpdationDto)">
+            <summary>
+            修改用户
+            </summary>
+            <param name="id">id</param>
+            <param name="input">用户信息</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.DeleteAsync(System.Int64)">
+            <summary>
+            删除用户
+            </summary>
+            <param name="id">用户ID</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.SetRoleAsync(System.Int64,System.Int64[])">
+            <summary>
+            设置用户角色
+            </summary>
+            <param name="id">用户Id</param>
+            <param name="roleIds">角色</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.ChangeStatus(System.Int64,MyName.Shared.Application.Contracts.Dtos.SimpleDto{System.Int32})">
+            <summary>
+            变更用户状态
+            </summary>
+            <param name="id">用户ID</param>
+            <param name="status">状态</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.ChangeStatus(MyName.Usr.Application.Contracts.Dtos.UserChangeStatusDto)">
+            <summary>
+            批量变更用户状态
+            </summary>
+            <param name="input">用户Ids与状态</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.GetCurrenUserPermissions(System.Int64,System.Collections.Generic.IEnumerable{System.String},System.String)">
+            <summary>
+            获取当前用户是否拥有指定权限
+            </summary>
+            <param name="id">用户id</param>
+            <param name="requestPermissions"></param>
+            <param name="userBelongsRoleIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.GetPagedAsync(MyName.Usr.Application.Contracts.Dtos.UserSearchPagedDto)">
+            <summary>
+            获取用户列表
+            </summary>
+            <param name="search">查询条件</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Usr.WebApi.Controllers.UserController.GetCurrentUserInfoAsync">
+            <summary>
+            获取登录用户个人信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MyName.Shared.Rpc.Grpc.Services.AuthgrpcReflection">
+            <summary>Holder for reflection information generated from Protos/Services/authgrpc.proto</summary>
+        </member>
+        <member name="P:MyName.Shared.Rpc.Grpc.Services.AuthgrpcReflection.Descriptor">
+            <summary>File descriptor for Protos/Services/authgrpc.proto</summary>
+        </member>
+        <member name="P:MyName.Shared.Rpc.Grpc.Services.AuthGrpc.Descriptor">
+            <summary>Service descriptor</summary>
+        </member>
+        <member name="T:MyName.Shared.Rpc.Grpc.Services.AuthGrpc.AuthGrpcBase">
+            <summary>Base class for server-side implementations of AuthGrpc</summary>
+        </member>
+        <member name="M:MyName.Shared.Rpc.Grpc.Services.AuthGrpc.BindService(MyName.Shared.Rpc.Grpc.Services.AuthGrpc.AuthGrpcBase)">
+            <summary>Creates service definition that can be registered with a server</summary>
+            <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+        </member>
+        <member name="M:MyName.Shared.Rpc.Grpc.Services.AuthGrpc.BindService(Grpc.Core.ServiceBinderBase,MyName.Shared.Rpc.Grpc.Services.AuthGrpc.AuthGrpcBase)">
+            <summary>Register service method with a service binder with or without implementation. Useful when customizing the service binding logic.
+            Note: this method is part of an experimental API that can change or be removed without any prior notice.</summary>
+            <param name="serviceBinder">Service methods will be bound by calling <c>AddMethod</c> on this object.</param>
+            <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+        </member>
+        <member name="T:MyName.Shared.Rpc.Grpc.Services.UsrgrpcReflection">
+            <summary>Holder for reflection information generated from Protos/Services/usrgrpc.proto</summary>
+        </member>
+        <member name="P:MyName.Shared.Rpc.Grpc.Services.UsrgrpcReflection.Descriptor">
+            <summary>File descriptor for Protos/Services/usrgrpc.proto</summary>
+        </member>
+        <member name="P:MyName.Shared.Rpc.Grpc.Services.UsrGrpc.Descriptor">
+            <summary>Service descriptor</summary>
+        </member>
+        <member name="T:MyName.Shared.Rpc.Grpc.Services.UsrGrpc.UsrGrpcBase">
+            <summary>Base class for server-side implementations of UsrGrpc</summary>
+        </member>
+        <member name="M:MyName.Shared.Rpc.Grpc.Services.UsrGrpc.BindService(MyName.Shared.Rpc.Grpc.Services.UsrGrpc.UsrGrpcBase)">
+            <summary>Creates service definition that can be registered with a server</summary>
+            <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+        </member>
+        <member name="M:MyName.Shared.Rpc.Grpc.Services.UsrGrpc.BindService(Grpc.Core.ServiceBinderBase,MyName.Shared.Rpc.Grpc.Services.UsrGrpc.UsrGrpcBase)">
+            <summary>Register service method with a service binder with or without implementation. Useful when customizing the service binding logic.
+            Note: this method is part of an experimental API that can change or be removed without any prior notice.</summary>
+            <param name="serviceBinder">Service methods will be bound by calling <c>AddMethod</c> on this object.</param>
+            <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+        </member>
+    </members>
+</doc>

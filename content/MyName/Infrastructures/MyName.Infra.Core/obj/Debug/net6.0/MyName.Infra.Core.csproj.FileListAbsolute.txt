@@ -1,0 +1,12 @@
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\bin\Debug\net6.0\MyName.Infra.Core.deps.json
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\bin\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\bin\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\MyName.Infra.Core.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\MyName.Infra.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\MyName.Infra.Core.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\MyName.Infra.Core.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\MyName.Infra.Core.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\refint\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Core\obj\Debug\net6.0\ref\MyName.Infra.Core.dll

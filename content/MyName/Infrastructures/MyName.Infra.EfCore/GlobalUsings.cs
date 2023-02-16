@@ -1,0 +1,11 @@
+﻿global using MyName.Infra.Core.Guard;
+global using MyName.Infra.Entities;
+global using MyName.Infra.IRepositories;
+global using MyName.Infra.Repository.EfCore.Internal;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using System.Data;
+global using System.Linq.Expressions;
+global using System.Reflection;
+global using Z.EntityFramework.Plus;

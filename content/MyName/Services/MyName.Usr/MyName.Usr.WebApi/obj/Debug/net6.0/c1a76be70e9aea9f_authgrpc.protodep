@@ -1,0 +1,5 @@
+obj\Debug\net6.0\protos\services/Authgrpc.cs \
+obj\Debug\net6.0\protos\services/AuthgrpcGrpc.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/any.proto\
+ ../../Shared/MyName.Shared.Rpc/protos/messages/common.proto\
+ ../../Shared/MyName.Shared.Rpc/protos/messages/authgrpc_login.proto\
+ ../../Shared/MyName.Shared.Rpc/Protos/Services/authgrpc.proto

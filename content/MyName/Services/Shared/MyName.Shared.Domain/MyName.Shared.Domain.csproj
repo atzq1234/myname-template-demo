@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<Import Project="..\..\..\build\common.props" />
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'" />
+	<ItemGroup>
+		<ProjectReference Include="..\..\..\Infrastructures\MyName.Infra.EventBus\MyName.Infra.EventBus.csproj" />
+		<ProjectReference Include="..\..\..\Infrastructures\MyName.Infra.Helper\MyName.Infra.Helper.csproj" />
+		<ProjectReference Include="..\..\..\Infrastructures\MyName.Infra.Repository\MyName.Infra.Repository.csproj" />
+		<ProjectReference Include="..\MyName.Shared.Repository\MyName.Shared.Repository.csproj" />
+	</ItemGroup>
+</Project>

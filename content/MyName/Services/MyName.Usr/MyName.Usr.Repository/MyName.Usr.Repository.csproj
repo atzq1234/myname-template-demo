@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<Import Project="..\..\..\build\common.props" />
+	<PropertyGroup>
+	  <GenerateDocumentationFile>True</GenerateDocumentationFile>
+	</PropertyGroup>
+	<ItemGroup>
+    <ProjectReference Include="..\..\..\Infrastructures\MyName.Infra.Repository\MyName.Infra.Repository.csproj" />
+    <ProjectReference Include="..\..\Shared\MyName.Shared.Repository\MyName.Shared.Repository.csproj" />
+    <ProjectReference Include="..\..\Shared\MyName.Shared\MyName.Shared.csproj" />
+  </ItemGroup>
+</Project>

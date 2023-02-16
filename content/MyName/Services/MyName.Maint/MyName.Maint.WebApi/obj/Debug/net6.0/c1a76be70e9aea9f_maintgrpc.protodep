@@ -1,0 +1,6 @@
+obj\Debug\net6.0\protos\services/Maintgrpc.cs \
+obj\Debug\net6.0\protos\services/MaintgrpcGrpc.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/any.proto\
+ ../../Shared/MyName.Shared.Rpc/protos/messages/common.proto\
+ C:/Users/Administrator/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/wrappers.proto\
+ ../../Shared/MyName.Shared.Rpc/protos/messages/maintgrpc_getdict.proto\
+ ../../Shared/MyName.Shared.Rpc/Protos/Services/maintgrpc.proto

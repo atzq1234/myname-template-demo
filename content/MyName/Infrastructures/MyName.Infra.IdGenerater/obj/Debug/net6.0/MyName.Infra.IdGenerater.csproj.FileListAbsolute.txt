@@ -1,0 +1,17 @@
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\bin\Debug\net6.0\MyName.Infra.IdGenerater.deps.json
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\bin\Debug\net6.0\MyName.Infra.IdGenerater.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\bin\Debug\net6.0\MyName.Infra.IdGenerater.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\bin\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\bin\Debug\net6.0\MyName.Infra.Redis.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\bin\Debug\net6.0\MyName.Infra.Redis.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\bin\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\MyName.Infra.IdGenerater.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\MyName.Infra.IdGenerater.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\MyName.Infra.IdGenerater.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\MyName.Infra.IdGenerater.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\MyName.Infra.IdGenerater.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\MyName.Infra.IdGenerater.csproj.CopyComplete
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\MyName.Infra.IdGenerater.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\refint\MyName.Infra.IdGenerater.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\MyName.Infra.IdGenerater.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.IdGenerater\obj\Debug\net6.0\ref\MyName.Infra.IdGenerater.dll

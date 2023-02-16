@@ -1,0 +1,15 @@
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\bin\Debug\net6.0\MyName.Infra.Mapper.deps.json
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\bin\Debug\net6.0\MyName.Infra.Mapper.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\bin\Debug\net6.0\MyName.Infra.Mapper.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\bin\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\bin\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\MyName.Infra.Mapper.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\MyName.Infra.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\MyName.Infra.Mapper.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\MyName.Infra.Mapper.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\MyName.Infra.Mapper.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\MyName.Infra.Mapper.csproj.CopyComplete
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\MyName.Infra.Mapper.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\refint\MyName.Infra.Mapper.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\MyName.Infra.Mapper.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Mapper\obj\Debug\net6.0\ref\MyName.Infra.Mapper.dll

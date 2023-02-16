@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos\Messages/UsrgrpcGetdepts.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/wrappers.proto\
+ Protos/Messages/usrgrpc_getdepts.proto

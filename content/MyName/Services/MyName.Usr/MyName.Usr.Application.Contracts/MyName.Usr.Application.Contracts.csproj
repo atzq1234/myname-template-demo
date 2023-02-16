@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<Import Project="..\..\..\build\common.props" />
+	<PropertyGroup>
+	  <GenerateDocumentationFile>True</GenerateDocumentationFile>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\..\..\Infrastructures\MyName.Infra.Helper\MyName.Infra.Helper.csproj" />
+		<ProjectReference Include="..\..\..\Infrastructures\MyName.Infra.Redis.Caching\MyName.Infra.Redis.Caching.csproj" />
+		<ProjectReference Include="..\..\Shared\MyName.Shared.Application.Contracts\MyName.Shared.Application.Contracts.csproj" />
+		<ProjectReference Include="..\..\Shared\MyName.Shared\MyName.Shared.csproj" />
+	</ItemGroup>
+</Project>

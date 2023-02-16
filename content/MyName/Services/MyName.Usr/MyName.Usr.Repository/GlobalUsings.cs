@@ -1,0 +1,10 @@
+﻿global using MyName.Infra.Entities;
+global using MyName.Infra.IRepositories;
+global using MyName.Shared.Consts.Entity.Usr;
+global using MyName.Shared.Repository.EfEntities;
+global using MyName.Shared.Repository.EfEntities.Config;
+global using MyName.Usr.Entities;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using System.Collections.ObjectModel;
+global using System.Reflection;

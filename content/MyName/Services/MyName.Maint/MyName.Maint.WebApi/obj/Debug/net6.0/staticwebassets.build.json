@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "+oaNnX8JCxn9VLPdzYsc0qjAdnHd2VGyJj62OtUvLR4=",
+  "Source": "MyName.Maint.WebApi",
+  "BasePath": "_content/MyName.Maint.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyName.Maint.WebApi\\wwwroot",
+      "Source": "MyName.Maint.WebApi",
+      "ContentRoot": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Maint\\MyName.Maint.WebApi\\wwwroot\\",
+      "BasePath": "_content/MyName.Maint.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Maint\\MyName.Maint.WebApi\\wwwroot\\favicon.ico",
+      "SourceId": "MyName.Maint.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Maint\\MyName.Maint.WebApi\\wwwroot\\",
+      "BasePath": "_content/MyName.Maint.WebApi",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Maint\\MyName.Maint.WebApi\\wwwroot\\index.html",
+      "SourceId": "MyName.Maint.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Maint\\MyName.Maint.WebApi\\wwwroot\\",
+      "BasePath": "_content/MyName.Maint.WebApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

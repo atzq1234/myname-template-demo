@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos\Messages/Common.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/any.proto\
+ Protos/Messages/common.proto

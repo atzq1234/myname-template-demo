@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyName.Maint.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:MyName.Maint.WebApi.Controllers.CfgController">
+            <summary>
+            配置管理
+            </summary>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.CfgController.CreateAsync(MyName.Maint.Application.Contracts.Dtos.CfgCreationDto)">
+            <summary>
+            新增配置
+            </summary>
+            <param name="input"><see cref="T:MyName.Maint.Application.Contracts.Dtos.CfgCreationDto"/></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.CfgController.UpdateAsync(System.Int64,MyName.Maint.Application.Contracts.Dtos.CfgUpdationDto)">
+            <summary>
+            更新配置
+            </summary>
+            <param name="id">id</param>
+            <param name="input"><see cref="T:MyName.Maint.Application.Contracts.Dtos.CfgUpdationDto"/></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.CfgController.DeleteAsync(System.Int64)">
+            <summary>
+            删除配置节点
+            </summary>
+            <param name="id">节点id</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.CfgController.GetAsync(System.Int64)">
+            <summary>
+            获取单个配置节点
+            </summary>
+            <param name="id">节点id</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.CfgController.GetPagedAsync(MyName.Maint.Application.Contracts.Dtos.CfgSearchPagedDto)">
+            <summary>
+            获取配置列表
+            </summary>
+            <param name="search"><see cref="T:MyName.Maint.Application.Contracts.Dtos.CfgSearchPagedDto"/></param>
+            <returns><see cref="T:MyName.Shared.Application.Contracts.Dtos.PageModelDto`1"/></returns>
+        </member>
+        <member name="T:MyName.Maint.WebApi.Controllers.DictController">
+            <summary>
+            字典管理
+            </summary>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.DictController.CreateAsync(MyName.Maint.Application.Contracts.Dtos.DictCreationDto)">
+            <summary>
+            新增字典
+            </summary>
+            <param name="input"><see cref="T:MyName.Maint.Application.Contracts.Dtos.DictCreationDto"/></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.DictController.UpdateAsync(System.Int64,MyName.Maint.Application.Contracts.Dtos.DictUpdationDto)">
+            <summary>
+            修改字典
+            </summary>
+            <param name="id">id</param>
+            <param name="input"><see cref="T:MyName.Maint.Application.Contracts.Dtos.DictUpdationDto"/></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.DictController.DeleteAsync(System.Int64)">
+            <summary>
+            删除字典
+            </summary>
+            <param name="id">字典ID</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.DictController.GetListAsync(MyName.Maint.Application.Contracts.Dtos.DictSearchDto)">
+            <summary>
+            获取字典列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.DictController.GetAsync(System.Int64)">
+            <summary>
+            获取单个字典数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MyName.Maint.WebApi.Controllers.LogController">
+            <summary>
+            操作日志
+            </summary>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.LogController.GetOpsLogsPaged(MyName.Maint.Application.Contracts.Dtos.LogSearchPagedDto)">
+            <summary>
+            查询操作日志
+            </summary>
+            <param name="searchDto">查询条件</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.LogController.GetUserOpsLogsPagedAsync(MyName.Maint.Application.Contracts.Dtos.LogSearchPagedDto)">
+            <summary>
+            查询用户操作日志
+            </summary>
+            <param name="searchDto">查询条件</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.LogController.GetLoginLogsPagedAsync(MyName.Maint.Application.Contracts.Dtos.LogSearchPagedDto)">
+            <summary>
+            查询登录日志
+            </summary>
+            <param name="searchDto">查询条件</param>
+            <returns></returns>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.LogController.GetNlogLogsPagedAsync(MyName.Maint.Application.Contracts.Dtos.LogSearchPagedDto)">
+            <summary>
+            查询Nlog日志
+            </summary>
+            <param name="searchDto">查询条件</param>
+            <returns></returns>
+        </member>
+        <member name="T:MyName.Maint.WebApi.Controllers.NoticeController">
+            <summary>
+            通知管理
+            </summary>
+        </member>
+        <member name="M:MyName.Maint.WebApi.Controllers.NoticeController.GetList(MyName.Maint.Application.Contracts.Dtos.NoticeSearchDto)">
+            <summary>
+            获取通知消息列表
+            </summary>
+            <param name="search"><see cref="T:MyName.Maint.Application.Contracts.Dtos.NoticeSearchDto"/></param>
+            <returns></returns>
+        </member>
+        <member name="T:MyName.Shared.Rpc.Grpc.Services.MaintgrpcReflection">
+            <summary>Holder for reflection information generated from Protos/Services/maintgrpc.proto</summary>
+        </member>
+        <member name="P:MyName.Shared.Rpc.Grpc.Services.MaintgrpcReflection.Descriptor">
+            <summary>File descriptor for Protos/Services/maintgrpc.proto</summary>
+        </member>
+        <member name="P:MyName.Shared.Rpc.Grpc.Services.MaintGrpc.Descriptor">
+            <summary>Service descriptor</summary>
+        </member>
+        <member name="T:MyName.Shared.Rpc.Grpc.Services.MaintGrpc.MaintGrpcBase">
+            <summary>Base class for server-side implementations of MaintGrpc</summary>
+        </member>
+        <member name="M:MyName.Shared.Rpc.Grpc.Services.MaintGrpc.BindService(MyName.Shared.Rpc.Grpc.Services.MaintGrpc.MaintGrpcBase)">
+            <summary>Creates service definition that can be registered with a server</summary>
+            <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+        </member>
+        <member name="M:MyName.Shared.Rpc.Grpc.Services.MaintGrpc.BindService(Grpc.Core.ServiceBinderBase,MyName.Shared.Rpc.Grpc.Services.MaintGrpc.MaintGrpcBase)">
+            <summary>Register service method with a service binder with or without implementation. Useful when customizing the service binding logic.
+            Note: this method is part of an experimental API that can change or be removed without any prior notice.</summary>
+            <param name="serviceBinder">Service methods will be bound by calling <c>AddMethod</c> on this object.</param>
+            <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+        </member>
+    </members>
+</doc>

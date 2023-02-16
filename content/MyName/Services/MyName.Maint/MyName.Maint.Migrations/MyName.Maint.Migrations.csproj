@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<Import Project="..\..\..\build\common.props" />
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<OutputPath>..\MyName.Maint.WebApi\bin\$(Configuration)</OutputPath>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\..\..\Infrastructures\MyName.Infra.EfCore.MySQL\MyName.Infra.Repository.EfCore.MySql.csproj" />
+	</ItemGroup>
+</Project>

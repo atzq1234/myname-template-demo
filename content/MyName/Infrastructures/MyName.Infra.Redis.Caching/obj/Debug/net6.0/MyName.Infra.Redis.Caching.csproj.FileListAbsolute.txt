@@ -1,0 +1,17 @@
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\bin\Debug\net6.0\MyName.Infra.Redis.Caching.deps.json
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\bin\Debug\net6.0\MyName.Infra.Redis.Caching.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\bin\Debug\net6.0\MyName.Infra.Redis.Caching.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\bin\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\bin\Debug\net6.0\MyName.Infra.Redis.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\bin\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\bin\Debug\net6.0\MyName.Infra.Redis.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\MyName.Infra.Redis.Caching.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\MyName.Infra.Redis.Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\MyName.Infra.Redis.Caching.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\MyName.Infra.Redis.Caching.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\MyName.Infra.Redis.Caching.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\MyName.Infra.Redis.Caching.csproj.CopyComplete
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\MyName.Infra.Redis.Caching.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\refint\MyName.Infra.Redis.Caching.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\MyName.Infra.Redis.Caching.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Redis.Caching\obj\Debug\net6.0\ref\MyName.Infra.Redis.Caching.dll

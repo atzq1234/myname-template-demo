@@ -1,0 +1,6 @@
+obj\Debug\net6.0\protos\services/Usrgrpc.cs \
+obj\Debug\net6.0\protos\services/UsrgrpcGrpc.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/Administrator/.nuget/packages/grpc.tools/2.47.0/build/native/include/google/protobuf/any.proto\
+ ../../Shared/MyName.Shared.Rpc/protos/messages/common.proto\
+ ../../Shared/MyName.Shared.Rpc/protos/messages/usrgrpc_getcurrenuserpermissions.proto\
+ ../../Shared/MyName.Shared.Rpc/Protos/Services/usrgrpc.proto

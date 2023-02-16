@@ -1,0 +1,15 @@
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\bin\Debug\net6.0\MyName.Shared.Application.Contracts.deps.json
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\bin\Debug\net6.0\MyName.Shared.Application.Contracts.dll
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\bin\Debug\net6.0\MyName.Shared.Application.Contracts.pdb
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\bin\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\bin\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\MyName.Shared.Application.Contracts.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\MyName.Shared.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\MyName.Shared.Application.Contracts.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\MyName.Shared.Application.Contracts.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\MyName.Shared.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\MyName.Shared.Application.Contracts.csproj.CopyComplete
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\MyName.Shared.Application.Contracts.dll
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\refint\MyName.Shared.Application.Contracts.dll
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\MyName.Shared.Application.Contracts.pdb
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared.Application.Contracts\obj\Debug\net6.0\ref\MyName.Shared.Application.Contracts.dll

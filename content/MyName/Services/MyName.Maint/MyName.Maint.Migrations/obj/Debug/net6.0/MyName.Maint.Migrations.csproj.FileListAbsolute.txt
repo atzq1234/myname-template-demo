@@ -1,0 +1,13 @@
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.WebApi\bin\Debug\net6.0\MyName.Maint.Migrations.deps.json
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.WebApi\bin\Debug\net6.0\MyName.Maint.Migrations.dll
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.WebApi\bin\Debug\net6.0\MyName.Maint.Migrations.pdb
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\MyName.Maint.Migrations.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\MyName.Maint.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\MyName.Maint.Migrations.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\MyName.Maint.Migrations.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\MyName.Maint.Migrations.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\MyName.Maint.Migrations.csproj.CopyComplete
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\MyName.Maint.Migrations.dll
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\refint\MyName.Maint.Migrations.dll
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\MyName.Maint.Migrations.pdb
+D:\git\template-test\test\MyName\Services\MyName.Maint\MyName.Maint.Migrations\obj\Debug\net6.0\ref\MyName.Maint.Migrations.dll

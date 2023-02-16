@@ -1,0 +1,15 @@
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\bin\Debug\net6.0\MyName.Shared.deps.json
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\bin\Debug\net6.0\MyName.Shared.dll
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\bin\Debug\net6.0\MyName.Shared.pdb
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\bin\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\bin\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\MyName.Shared.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\MyName.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\MyName.Shared.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\MyName.Shared.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\MyName.Shared.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\MyName.Shared.csproj.CopyComplete
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\MyName.Shared.dll
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\refint\MyName.Shared.dll
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\MyName.Shared.pdb
+D:\git\template-test\test\MyName\Services\Shared\MyName.Shared\obj\Debug\net6.0\ref\MyName.Shared.dll

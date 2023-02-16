@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<Import Project="..\..\..\build\common.props" />
+	<ItemGroup>
+		<ProjectReference Include="..\..\Shared\MyName.Shared.Rpc\MyName.Shared.Rpc.csproj" />
+		<ProjectReference Include="..\..\Shared\MyName.Shared.Application\MyName.Shared.Application.csproj" />
+		<ProjectReference Include="..\MyName.Maint.Application.Contracts\MyName.Maint.Application.Contracts.csproj" />
+		<ProjectReference Include="..\MyName.Maint.Repository\MyName.Maint.Repository.csproj" />
+	</ItemGroup>
+</Project>

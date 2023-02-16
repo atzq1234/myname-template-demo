@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "tJCAdcbkpmnwDN5/2nDaQGv0motHDhatmHhRNXOY1Co=",
+  "Source": "MyName.Usr.WebApi",
+  "BasePath": "_content/MyName.Usr.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyName.Usr.WebApi\\wwwroot",
+      "Source": "MyName.Usr.WebApi",
+      "ContentRoot": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Usr\\MyName.Usr.WebApi\\wwwroot\\",
+      "BasePath": "_content/MyName.Usr.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Usr\\MyName.Usr.WebApi\\wwwroot\\favicon.ico",
+      "SourceId": "MyName.Usr.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Usr\\MyName.Usr.WebApi\\wwwroot\\",
+      "BasePath": "_content/MyName.Usr.WebApi",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Usr\\MyName.Usr.WebApi\\wwwroot\\index.html",
+      "SourceId": "MyName.Usr.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\git\\template-test\\test\\MyName\\Services\\MyName.Usr\\MyName.Usr.WebApi\\wwwroot\\",
+      "BasePath": "_content/MyName.Usr.WebApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

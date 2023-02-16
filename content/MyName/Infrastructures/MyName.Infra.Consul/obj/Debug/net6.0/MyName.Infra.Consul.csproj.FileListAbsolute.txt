@@ -1,0 +1,15 @@
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\bin\Debug\net6.0\MyName.Infra.Consul.deps.json
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\bin\Debug\net6.0\MyName.Infra.Consul.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\bin\Debug\net6.0\MyName.Infra.Consul.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\bin\Debug\net6.0\MyName.Infra.Core.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\bin\Debug\net6.0\MyName.Infra.Core.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\MyName.Infra.Consul.csproj.AssemblyReference.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\MyName.Infra.Consul.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\MyName.Infra.Consul.AssemblyInfoInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\MyName.Infra.Consul.AssemblyInfo.cs
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\MyName.Infra.Consul.csproj.CoreCompileInputs.cache
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\MyName.Infra.Consul.csproj.CopyComplete
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\MyName.Infra.Consul.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\refint\MyName.Infra.Consul.dll
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\MyName.Infra.Consul.pdb
+D:\git\template-test\test\MyName\Infrastructures\MyName.Infra.Consul\obj\Debug\net6.0\ref\MyName.Infra.Consul.dll
